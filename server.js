@@ -343,7 +343,8 @@ IMPORTANT:
 
   res.end("MaticBot Gemini server is running!");
 });
+const PORT = process.env.PORT || 3000;
 
-server.listen(3000, () => {
-  console.log("MaticBot Gemini server is running on http://localhost:3000");
+server.listen(PORT, () => {
+  console.log(`MaticBot Gemini server is running on port ${PORT}`);
 });
