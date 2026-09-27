@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>MaticBot — Intelligent Qualification Recommendation System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="nav">
+    <div class="brand">
+      <img src="images/logo.png" alt="University of Zululand crest">
+      <div class="word">MaticBot<small data-i18n="tag_nav">Chat</small></div>
+    </div>
+    <nav class="nav-links">
+      <a href="#faculties" data-i18n="nav_fac">Faculties</a>
+      <a href="#how" data-i18n="nav_how">How it works</a>
+      <a href="#community" data-i18n="nav_community">Campus</a>
+      <a href="#advisor" data-i18n="nav_advisor">Meet the Chatbot</a>
+    </nav>
+    <div style="display:flex;align-items:center;gap:14px;">
+      <button class="nav-cta" id="openChatNav" data-i18n="nav_cta">Ask the Chatbot</button>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow" data-i18n="hero_eyebrow">Intelligent Qualification Recommendation System</div>
+    <h1 data-i18n-html="hero_title">Your subjects already know<br>where they <em>belong.</em></h1>
+    <p class="lead" data-i18n="hero_lead">Tell the UNIZULU Chatbot what you're studying in Grade 12 — in English or isiZulu — and get matched to real qualifications across all four faculties, with the entry requirements explained in plain language.</p>
+    <div class="hero-actions">
+      <button class="btn-primary" id="openChatHero">
+        <span data-i18n="hero_cta1">Chat with the Chatbot</span> →
+      </button>
+      <a href="#faculties" class="btn-ghost" data-i18n="hero_cta2">Browse the 4 faculties</a>
+    </div>
+    <div class="hero-stats">
+      <div><span class="num">4</span><span class="lbl" data-i18n="stat_fac">Faculties</span></div>
+      <div><span class="num">30+</span><span class="lbl" data-i18n="stat_prog">Qualifications mapped</span></div>
+      <div><span class="num">EN / ZU</span><span class="lbl" data-i18n="stat_lang">Fully bilingual</span></div>
+      <div><span class="num">24/7</span><span class="lbl" data-i18n="stat_time">Always available</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="lattice-strip" aria-hidden="true">
+  <div class="lattice-row" id="latticeRow"></div>
+  <div class="lattice-caption">
+    <span>LIKE THE BRICK SCREEN ON THE EDUCATION BUILDING<small>Every cell connects to the next — every subject connects to a qualification</small></span>
+  </div>
+</div>
+
+<section id="faculties">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="eyebrow" data-i18n="fac_eyebrow">Where your subjects can take you</div>
+      <h2 data-i18n="fac_title">Four faculties, one campus</h2>
+      <p data-i18n="fac_lead">Every qualification at UNIZULU sits inside one of these four faculties. The Chatbot uses this exact structure to line up your subjects with real study options.</p>
+    </div>
+    <div class="fac-grid" id="facGrid"></div>
+  </div>
+</section>
+
+<section id="how" style="background:var(--sand);">
+  <div class="wrap steps">
+    <div class="section-head">
+      <div class="eyebrow" data-i18n="how_eyebrow">Three steps</div>
+      <h2 data-i18n="how_title">How the Chatbot matches you</h2>
+    </div>
+    <div class="steps-row">
+      <div class="step">
+        <div class="marker">
+          <svg width="58" height="58" viewBox="0 0 58 58"><rect x="1" y="1" width="56" height="56" rx="14" fill="var(--white)" stroke="var(--brick)" stroke-width="1.5"/><path d="M29 15 L41 29 L29 43 L17 29 Z" fill="none" stroke="var(--brick)" stroke-width="2"/></svg>
+        </div>
+        <h3 data-i18n="step1_t">Tell it your subjects</h3>
+        <p data-i18n="step1_d">Pick your Grade 12 subjects and an honest sense of your marks — by chip, by typing, or by speaking, in English or isiZulu.</p>
+      </div>
+      <div class="step">
+        <div class="marker">
+          <svg width="58" height="58" viewBox="0 0 58 58"><rect x="1" y="1" width="56" height="56" rx="14" fill="var(--white)" stroke="var(--brick)" stroke-width="1.5"/><path d="M29 15 L41 29 L29 43 L17 29 Z" fill="var(--gold-soft)" stroke="var(--brick)" stroke-width="2"/></svg>
+        </div>
+        <h3 data-i18n="step2_t">It weighs the fit</h3>
+        <p data-i18n="step2_d">The Chatbot checks your subjects and marks against the indicative APS and subject requirements for programmes in all 4 faculties.</p>
+      </div>
+      <div class="step">
+        <div class="marker">
+          <svg width="58" height="58" viewBox="0 0 58 58"><rect x="1" y="1" width="56" height="56" rx="14" fill="var(--brick)" stroke="var(--brick)" stroke-width="1.5"/><path d="M29 15 L41 29 L29 43 L17 29 Z" fill="var(--gold)" stroke="var(--gold)" stroke-width="2"/></svg>
+        </div>
+        <h3 data-i18n="step3_t">You explore, in plain language</h3>
+        <p data-i18n="step3_d">You get 2–3 ranked qualifications with why they fit, what they require, and what to ask next — no jargon, no dead ends.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="community" class="community">
+  <div class="wrap">
+    <div>
+      <div class="eyebrow" style="color:var(--gold);">
+        <span data-i18n="comm_eyebrow">A node for African thought</span>
+      </div>
+      <p class="quote" data-i18n="comm_quote">"Diligentia Cresco — I grow through diligence." The same motto on the crest is the whole point of the Chatbot: it doesn't choose for you, it just makes the path easier to see.</p>
+      <p class="quote-attr">UNIZULU MOTTO, KWADLANGEZWA CAMPUS</p>
+    </div>
+    <div class="imgs">
+      <img class="tall" src="images/campus.jpg" alt="UNIZULU students and staff gathered on campus">
+      <div class="imgs-col">
+        <img src="images/student.png" alt="Students reading prospectuses outside the Education building">
+        <img src="images/library.jpg" alt="Inside the UNIZULU library">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="advisor" class="advisor-intro">
+  <div class="wrap">
+    <div>
+      <div class="eyebrow" data-i18n="adv_eyebrow">Meet the chatbot</div>
+      <h2 data-i18n="adv_title">The Chatbot speaks your language — both of them</h2>
+      <ul class="feat-list">
+        <li>
+          <div class="ic">EN/ZU</div>
+          <div><h4 data-i18n="feat1_t">Bilingual by design</h4><p data-i18n="feat1_d">Ask in English or isiZulu — the Chatbot recognises greetings, subjects and grades in both, and replies in the language you used.</p></div>
+        </li>
+        <li>
+          <div class="ic">🎙</div>
+          <div><h4 data-i18n="feat2_t">Voice in, voice out</h4><p data-i18n="feat2_d">Tap the microphone to speak your subjects instead of typing, and let the Chatbot read recommendations back to you.</p></div>
+        </li>
+        <li>
+          <div class="ic">✓</div>
+          <div><h4 data-i18n="feat3_t">Grounded in real requirements</h4><p data-i18n="feat3_d">Every suggestion is tied to an indicative APS band and subject minimum — flagged clearly as "confirm in the official prospectus" where numbers vary.</p></div>
+        </li>
+        <li>
+          <div class="ic">+</div>
+          <div><h4 data-i18n="feat4_t">Built to grow</h4><p data-i18n="feat4_d">The language engine is structured so isiXhosa, Sesotho and Afrikaans can be added as extra recognised languages, not a rebuild.</p></div>
+        </li>
+      </ul>
+    </div>
+    <div class="advisor-card">
+      <div class="top">
+        <div class="avatar">C</div>
+        <div>
+          <strong>Chatbot</strong>
+          <span><span class="dot"></span> <span data-i18n="adv_status">UNIZULU Chatbot</span></span>
+        </div>
+      </div>
+      <div class="bubble" data-i18n="preview_bot1">Hi! im Unizulu student feel welcome talking to me!</div>
+      <div class="bubble me" data-i18n="preview_user1">Mathematics, Physical Sciences, Life Sciences, English</div>
+      <div class="bubble" data-i18n="preview_bot2">Lovely combination! With solid Maths and Physical Sciences, here's where you'd fit well:</div>
+      <div class="mini-chips">
+        <span data-i18n="preview_chip1">BSc: Mainstream · FSAE</span>
+        <span data-i18n="preview_chip2">BSc: Agriculture · FSAE</span>
+        <span data-i18n="preview_chip3">BEd MSTE · FE</span>
+      </div>
+      <button class="btn-primary" style="width:100%;justify-content:center;" id="openChatCard" data-i18n="preview_cta">Try it for real →</button>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brandf">
+        <img src="images/logo.png" alt="UNIZULU crest">
+        <strong style="font-family:'Fraunces',serif;font-size:17px;">UNIZULU Chatbot</strong>
+      </div>
+      <p class="tagline" data-i18n="foot_tag">An intelligent qualification recommendation system built for high school learners exploring study options at the University of Zululand.</p>
+    </div>
+    <div>
+      <h5 data-i18n="foot_h1">Faculties</h5>
+      <ul id="footFacList"></ul>
+    </div>
+    <div>
+      <h5 data-i18n="foot_h2">Chatbot</h5>
+      <ul>
+        <li data-i18n="foot_l1">How it works</li>
+        <li data-i18n="foot_l2">Voice &amp; language</li>
+        <li data-i18n="foot_l3">Subject matching</li>
+      </ul>
+    </div>
+    <div>
+      <h5 data-i18n="foot_h3">Campus</h5>
+      <ul>
+        <li>KwaDlangezwa</li>
+        <li>Richards Bay</li>
+        <li data-i18n="foot_l4">KwaZulu-Natal, South Africa</li>
+      </ul>
+    </div>
+  </div>
+  <p class="disclaimer" data-i18n="foot_disclaimer">Faculty names reflect UNIZULU's official structure. Programme names and APS bands shown here are indicative, drawn from public guidance for the 2026/2027 intake, and should be confirmed against the current official UNIZULU prospectus before any application decision.</p>
+  <div class="footer-bottom">
+    <span data-i18n="foot_bottom">Student project prototype — Intelligent Qualification Recommendation System</span>
+    <span>DILIGENTIA CRESCO</span>
+  </div>
+</footer>
+
+<!-- Launcher -->
+<button class="launcher" id="launcher" aria-label="Open chat with the Chatbot">
+  <span class="ping"></span>
+  <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><path d="M12 3C6.48 3 2 6.8 2 11.5C2 14.02 3.36 16.26 5.5 17.77V21L9.06 18.9C9.99 19.11 10.98 19.22 12 19.22C17.52 19.22 22 15.42 22 10.72C22 6.02 17.52 3 12 3Z" fill="#F0B92C"/></svg>
+</button>
+
+<!-- Chat Panel -->
+<div class="chat-panel" id="chatPanel" role="dialog" aria-label="UNIZULU Chatbot">
+  <div class="chat-head">
+    <div class="avatar">C</div>
+    <div class="meta">
+      <strong>MaticBot</strong>
+    </div>
+    <div class="actions">
+      <button id="closeChat" title="Close chatbot" aria-label="Close chatbot">✕</button>
+      <button id="optionsChat" aria-label="Options">☰</button>
+    </div>
+  </div>
+  <div class="chat-body" id="chatBody"></div>
+
+  <div class="chip-row" id="subjectChips"></div>
+  <div class="voice-hint" id="voiceHint">Listening… speak now.</div>
+  <div class="chat-input-row">
+    <button type="button" class="icon-btn mic" id="micBtn" title="Speak" onclick="toggleMic()">🎙</button>
+    <textarea id="chatInput" rows="1" placeholder="Ask anything about University of Zululand"></textarea>
+    <button class="icon-btn send" id="sendBtn" title="Send">➤</button>
+  </div>
+</div>
+
+  <!-- MathJax configuration -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+<script src="js/script.js"></script>
+</body>
+</html>
