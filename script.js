@@ -724,7 +724,7 @@ async function detectLanguageWithGemini(message){
 
   try {
 
-    const response = await fetch('http://localhost:3000/detect-language', {
+    const response = await fetch('https://maticbots.onrender.com/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
