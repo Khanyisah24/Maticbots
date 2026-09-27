@@ -1,0 +1,1505 @@
+{
+  "generated": "2026-08-28",
+  "source": "UNIZULU Prospectus + CAO Handbook Entry 2027 (Engineering section, ZU-R codes)",
+  "faculties": [
+    {
+      "code": "FSAE",
+      "color": "#2955A6",
+      "contact": "035 902 6306/6649",
+      "name_en": "Science, Agriculture & Engineering",
+      "name_zu": "ISayensi, Ezolimo Nobunjiniyela",
+      "blurb_en": "14 departments, 37 dual-major combinations. For learners strong in Maths and the sciences — physics, computing, agriculture, environmental science and nursing.",
+      "blurb_zu": "Iminyango engu-14, izinhlanganisela ezingu-37. Kwabaqinile kuMathematics nakwisayensi — ifiziki, ikhompyutha, ezolimo, isayensi yemvelo nobuhlengikazi.",
+      "programmes": [
+        {
+          "name": "BSc: Mainstream (dual major, e.g. Maths, Physics, Hydrology, Computer Science, Chemistry, Botany, Zoology, Microbiology, Biochemistry, Geography)",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "Mathematics L5 (Applied Maths/Maths/Stats/Chemistry/Computer Science/Physics majors) or L4 for other combinations; Physical Sciences L4 (Geography/Hydrology/Human Movement Science) or L3 (Biochemistry/Botany/Microbiology/Zoology); English L4; Life Sciences L4 for life-science majors",
+          "subs_zu": "IMathematics L5 (izinhlanganisela ze-Applied Maths/Maths/Stats/Chemistry/Computer Science/Physics) noma L4 kwezinye; ISayensi Yefiziki L4 noma L3; ISingisi L4",
+          "tags": [
+            "mathematics",
+            "physical sciences",
+            "life sciences",
+            "geography",
+            "information technology"
+          ],
+          "why_en": "Strong Mathematics and a science subject — this is UNIZULU's largest science pathway, with 37 major combinations to choose from",
+          "why_zu": "IMathematics eqinile nesifundo sesayensi — le yindlela enkulu yesayensi e-UNIZULU",
+          "salary": {
+            "category": "natural_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 29000,
+              "per_annum": 348000,
+              "label": "R29,000/month · R348,000/year"
+            },
+            "senior": {
+              "per_month": 46000,
+              "per_annum": 552000,
+              "label": "R46,000/month · R552,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BSc: Agriculture (Agronomy / Animal Science / Agribusiness)",
+          "years": 4,
+          "aps": "28",
+          "subs_en": "Mathematics L4, Physics or Geography L4, Agricultural Sciences/Life Sciences L4, English",
+          "subs_zu": "IMathematics L4, IFiziki noma IGeography L4, ISayensi Yezolimo/Yempilo L4, ISingisi",
+          "tags": [
+            "mathematics",
+            "agricultural sciences",
+            "life sciences",
+            "geography",
+            "physical sciences"
+          ],
+          "why_en": "Sciences with an applied, land- and food-systems focus",
+          "why_zu": "Isayensi enokusetshenziswa emhlabathini nasekudleni",
+          "salary": {
+            "category": "agriculture",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 14000,
+              "per_annum": 168000,
+              "label": "R14,000/month · R168,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 38000,
+              "per_annum": 456000,
+              "label": "R38,000/month · R456,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BSc: Augmented Stream",
+          "years": 4,
+          "aps": "28",
+          "subs_en": "40% (L3) in Maths, Agricultural Science, Life Science, Physical Sciences and/or Geography; English L3 (FAL) or L4 (HL)",
+          "subs_zu": "40% kuMathematics, ISayensi Yezolimo, ISayensi Yempilo, ISayensi Yefiziki noma IGeography; ISingisi L3/L4",
+          "tags": [
+            "mathematics",
+            "agricultural sciences",
+            "life sciences",
+            "physical sciences",
+            "geography"
+          ],
+          "why_en": "For learners just below BSc Mainstream requirements — same sciences, an extra foundation year",
+          "why_zu": "Kwabangakafiki ku-BSc Mainstream ngokuphelele — unyaka wesisekelo owengeziwe",
+          "salary": {
+            "category": "natural_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 29000,
+              "per_annum": 348000,
+              "label": "R29,000/month · R348,000/year"
+            },
+            "senior": {
+              "per_month": 46000,
+              "per_annum": 552000,
+              "label": "R46,000/month · R552,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BSc: Foundation Stream",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "40% (L3) in an Agricultural Science, Mathematics, and a Life/Agricultural Science; English L3; Physics L2",
+          "subs_zu": "40% kwisayensi yezolimo, iMathematics, kanye nesinye isayensi; ISingisi L3; IFiziki L2",
+          "tags": [
+            "mathematics",
+            "agricultural sciences",
+            "life sciences"
+          ],
+          "why_en": "An entry pathway into BSc for learners who don't yet meet Mainstream or Augmented Stream points",
+          "why_zu": "Indlela yokungena ku-BSc kwabangakafiki amaphuzu e-Mainstream noma i-Augmented Stream",
+          "salary": {
+            "category": "natural_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 29000,
+              "per_annum": 348000,
+              "label": "R29,000/month · R348,000/year"
+            },
+            "senior": {
+              "per_month": 46000,
+              "per_annum": 552000,
+              "label": "R46,000/month · R552,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Environmental Planning & Development",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "English L4 (HL) or L3 (FAL); Geography L4",
+          "subs_zu": "ISingisi L4/L3; IGeography L4",
+          "tags": [
+            "geography",
+            "english"
+          ],
+          "why_en": "Geography strength with a planning/environmental focus",
+          "why_zu": "Amandla eGeography agxile kwezemvelo nokuhlela",
+          "salary": {
+            "category": "environmental_planning",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 15000,
+              "per_annum": 180000,
+              "label": "R15,000/month · R180,000/year"
+            },
+            "mid": {
+              "per_month": 26000,
+              "per_annum": 312000,
+              "label": "R26,000/month · R312,000/year"
+            },
+            "senior": {
+              "per_month": 40000,
+              "per_annum": 480000,
+              "label": "R40,000/month · R480,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor Consumer Science: Extension & Rural Development",
+          "years": 4,
+          "aps": "28",
+          "subs_en": "English L4, Life Sciences/Agricultural Sciences L4, Life Orientation",
+          "subs_zu": "ISingisi L4, ISayensi Yempilo/Yezolimo L4, ILife Orientation",
+          "tags": [
+            "life sciences",
+            "agricultural sciences",
+            "english",
+            "life orientation"
+          ],
+          "why_en": "Applied science with a community development focus",
+          "why_zu": "Isayensi enokusetshenziswa egxile ekuthuthukisweni komphakathi",
+          "salary": {
+            "category": "agriculture",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 14000,
+              "per_annum": 168000,
+              "label": "R14,000/month · R168,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 38000,
+              "per_annum": 456000,
+              "label": "R38,000/month · R456,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor Consumer Science: Hospitality & Tourism",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English L4, Life Orientation",
+          "subs_zu": "ISingisi L4, ILife Orientation",
+          "tags": [
+            "tourism",
+            "english",
+            "life orientation"
+          ],
+          "why_en": "A practical, people-facing science interest",
+          "why_zu": "Ushukela ezempilo nokusiza abantu ngendlela esebenzayo",
+          "salary": {
+            "category": "consumer_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma in Sport & Exercise Technology",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3; English FAL L3 or HL L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3; ISingisi L3/L4",
+          "tags": [
+            "life orientation",
+            "life sciences",
+            "physical education"
+          ],
+          "why_en": "Active, health and movement interest",
+          "why_zu": "Ushukela ezempilo nokunyakaza komzimba",
+          "salary": {
+            "category": "sport_exercise",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 19000,
+              "per_annum": 228000,
+              "label": "R19,000/month · R228,000/year"
+            },
+            "senior": {
+              "per_month": 30000,
+              "per_annum": 360000,
+              "label": "R30,000/month · R360,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma in Hospitality Management",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3; English L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3; ISingisi L4",
+          "tags": [
+            "tourism",
+            "english"
+          ],
+          "why_en": "Practical, service-focused interest",
+          "why_zu": "Ushukela emsebenzini wokusiza abantu",
+          "salary": {
+            "category": "consumer_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "B Eng Electrical Engineering and Computer Engineering",
+          "code": "ZU-R-BOE",
+          "years": 4,
+          "aps": "30",
+          "closing_date": "31 Oct",
+          "subs_en": "NSC Degree with English L4 and Mathematics L5 (minimum 65%) and Physical Sciences L5",
+          "subs_zu": "I-NSC Degree ngeSingisi L4 neMathematics L5 (ubuncane 65%) kanye neSayensi Yefiziki L5",
+          "tags": [
+            "mathematics",
+            "physical sciences",
+            "english",
+            "information technology"
+          ],
+          "why_en": "Strong Maths and Physical Sciences for a combined electrical/computer engineering degree — leads to ECSA-registrable professional engineering practice",
+          "why_zu": "IMathematics neSayensi Yefiziki eqinile ze-electrical/computer engineering",
+          "notes_en": "Preference given to applicants with NSC Exemption/endorsement and who applied on or before the closing date. First preference to applicants who have never studied at another university.",
+          "salary": {
+            "category": "engineering_professional",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 22000,
+              "per_annum": 264000,
+              "label": "R22,000/month · R264,000/year"
+            },
+            "mid": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "senior": {
+              "per_month": 65000,
+              "per_annum": 780000,
+              "label": "R65,000/month · R780,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "B Eng Electrical Engineering",
+          "code": "ZU-R-BEZ",
+          "years": 4,
+          "aps": "30",
+          "closing_date": "31 Oct",
+          "subs_en": "NSC Degree with English L4 and Mathematics L5 (min 65%) and Physical Sciences L5, OR Matric Exemption with English 'D' HG/'C' SG and Mathematics 'C' HG/'A' SG and Physical Sciences 'D' HG/'B' SG",
+          "subs_zu": "I-NSC Degree noma i-Matric Exemption ngamamaki afanele kuMathematics neSayensi Yefiziki",
+          "tags": [
+            "mathematics",
+            "physical sciences",
+            "english"
+          ],
+          "why_en": "A dedicated electrical engineering pathway for learners strong in Maths and Physical Sciences",
+          "why_zu": "Indlela ye-electrical engineering kwabaqinile kuMathematics neSayensi Yefiziki",
+          "notes_en": "Preference given to applicants with NSC Exemption/endorsement and who applied on or before the closing date.",
+          "salary": {
+            "category": "engineering_professional",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 22000,
+              "per_annum": 264000,
+              "label": "R22,000/month · R264,000/year"
+            },
+            "mid": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "senior": {
+              "per_month": 65000,
+              "per_annum": 780000,
+              "label": "R65,000/month · R780,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "B Eng Mechanical Engineering",
+          "code": "ZU-R-BMZ",
+          "years": 4,
+          "aps": "30",
+          "closing_date": "31 Oct",
+          "subs_en": "NSC Degree with English L4 and Mathematics L5 (min 65%) and Physical Sciences L5, OR Matric Exemption with English 'D' HG/'C' SG and Mathematics 'C' HG/'A' SG and Physical Sciences 'D' HG/'B' SG",
+          "subs_zu": "I-NSC Degree noma i-Matric Exemption ngamamaki afanele kuMathematics neSayensi Yefiziki",
+          "tags": [
+            "mathematics",
+            "physical sciences",
+            "english"
+          ],
+          "why_en": "A dedicated mechanical engineering pathway for learners strong in Maths and Physical Sciences",
+          "why_zu": "Indlela ye-mechanical engineering kwabaqinile kuMathematics neSayensi Yefiziki",
+          "notes_en": "Preference given to applicants with NSC Exemption/endorsement and who applied on or before the closing date.",
+          "salary": {
+            "category": "engineering_professional",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 22000,
+              "per_annum": 264000,
+              "label": "R22,000/month · R264,000/year"
+            },
+            "mid": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "senior": {
+              "per_month": 65000,
+              "per_annum": 780000,
+              "label": "R65,000/month · R780,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "B Eng Mechatronic Engineering",
+          "code": "ZU-R-BM7",
+          "years": 4,
+          "aps": "30",
+          "closing_date": "31 Oct",
+          "subs_en": "NSC Degree with English L4 and Mathematics L5 (minimum 65%) and Physical Sciences L5, OR Matric Exemption with English 'D' HG/'C' SG and Mathematics 'C' HG/'A' SG and Physical Sciences 'D' HG/'B' SG",
+          "subs_zu": "I-NSC Degree noma i-Matric Exemption ngamamaki afanele kuMathematics neSayensi Yefiziki",
+          "tags": [
+            "mathematics",
+            "physical sciences",
+            "english",
+            "information technology"
+          ],
+          "why_en": "Combines mechanical, electrical and computer engineering — for learners strong in Maths and Physical Sciences who enjoy robotics/automation",
+          "why_zu": "Ihlanganisa i-mechanical, i-electrical ne-computer engineering — kwabathanda i-robotics/automation",
+          "notes_en": "Preference given to applicants with NSC Exemption/endorsement and who applied on or before the closing date.",
+          "salary": {
+            "category": "engineering_professional",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 22000,
+              "per_annum": 264000,
+              "label": "R22,000/month · R264,000/year"
+            },
+            "mid": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "senior": {
+              "per_month": 65000,
+              "per_annum": 780000,
+              "label": "R65,000/month · R780,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        }
+      ]
+    },
+    {
+      "code": "FCAL",
+      "color": "#A6472C",
+      "contact": "035 902 6539/6129",
+      "name_en": "Commerce, Administration & Law",
+      "name_zu": "Ezohwebo, Ukuphatha Nomthetho",
+      "blurb_en": "For learners who enjoy numbers, business, governance or argument — Commerce, Public Administration and Law.",
+      "blurb_zu": "Kwabathanda izibalo, ibhizinisi, ukubusa noma ukuphikisana — Ezohwebo, Ukuphathwa Komphakathi Nomthetho.",
+      "programmes": [
+        {
+          "name": "Bachelor of Commerce (Accounting)",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English L4 and Mathematics L4 (or B 'SG'/C 'HG' in both)",
+          "subs_zu": "ISingisi L4 neMathematics L4",
+          "tags": [
+            "mathematics",
+            "accounting",
+            "english"
+          ],
+          "why_en": "Solid Accounting/Mathematics combination",
+          "why_zu": "Inhlanganisela eqinile ye-Accounting/Mathematics",
+          "salary": {
+            "category": "accounting_finance",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "senior": {
+              "per_month": 58000,
+              "per_annum": 696000,
+              "label": "R58,000/month · R696,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Commerce (Accounting Science)",
+          "years": 4,
+          "aps": "32",
+          "subs_en": "English L5, Mathematics L5",
+          "subs_zu": "ISingisi L5, IMathematics L5",
+          "tags": [
+            "mathematics",
+            "accounting",
+            "english"
+          ],
+          "why_en": "High Maths and English achievement for the extended accounting stream",
+          "why_zu": "Impumelelo ephezulu kuMathematics naseSingisi",
+          "salary": {
+            "category": "accounting_science",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "mid": {
+              "per_month": 38000,
+              "per_annum": 456000,
+              "label": "R38,000/month · R456,000/year"
+            },
+            "senior": {
+              "per_month": 70000,
+              "per_annum": 840000,
+              "label": "R70,000/month · R840,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Commerce (general)",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English L4, Mathematics L3 or Maths Literacy L6",
+          "subs_zu": "ISingisi L4, IMathematics L3 noma Maths Literacy L6",
+          "tags": [
+            "mathematics",
+            "business studies",
+            "economics",
+            "english"
+          ],
+          "why_en": "General commerce strength across Maths/Maths Lit and English",
+          "why_zu": "Amandla ezohwebo kuMathematics/Maths Lit neSingisi",
+          "salary": {
+            "category": "commerce_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 14000,
+              "per_annum": 168000,
+              "label": "R14,000/month · R168,000/year"
+            },
+            "mid": {
+              "per_month": 25000,
+              "per_annum": 300000,
+              "label": "R25,000/month · R300,000/year"
+            },
+            "senior": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Commerce (Management Information Systems)",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English L4, Mathematics L4",
+          "subs_zu": "ISingisi L4, IMathematics L4",
+          "tags": [
+            "mathematics",
+            "information technology",
+            "business studies",
+            "english"
+          ],
+          "why_en": "Maths plus an interest in business systems and IT",
+          "why_zu": "IMathematics kanye nokuthanda amasistimu ebhizinisi ne-IT",
+          "salary": {
+            "category": "it_business_systems",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "mid": {
+              "per_month": 34000,
+              "per_annum": 408000,
+              "label": "R34,000/month · R408,000/year"
+            },
+            "senior": {
+              "per_month": 55000,
+              "per_annum": 660000,
+              "label": "R55,000/month · R660,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Commerce 4-Year Extended Programme",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "English L3, Mathematics L3 or Maths Literacy L4",
+          "subs_zu": "ISingisi L3, IMathematics L3 noma Maths Literacy L4",
+          "tags": [
+            "mathematics",
+            "business studies",
+            "english"
+          ],
+          "why_en": "A supported route into BCom with an extra foundation year",
+          "why_zu": "Indlela ye-BCom enosizo, enonyaka wesisekelo owengeziwe",
+          "salary": {
+            "category": "commerce_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 14000,
+              "per_annum": 168000,
+              "label": "R14,000/month · R168,000/year"
+            },
+            "mid": {
+              "per_month": 25000,
+              "per_annum": 300000,
+              "label": "R25,000/month · R300,000/year"
+            },
+            "senior": {
+              "per_month": 42000,
+              "per_annum": 504000,
+              "label": "R42,000/month · R504,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Administration",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English L4, Mathematics L3 or Maths Literacy L4",
+          "subs_zu": "ISingisi L4, IMathematics L3 noma Maths Literacy L4",
+          "tags": [
+            "business studies",
+            "economics",
+            "geography",
+            "history",
+            "mathematics",
+            "english"
+          ],
+          "why_en": "Interest in governance, public service and organisations",
+          "why_zu": "Ushukela ekuphathweni nasemphakathini",
+          "salary": {
+            "category": "public_admin",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 13000,
+              "per_annum": 156000,
+              "label": "R13,000/month · R156,000/year"
+            },
+            "mid": {
+              "per_month": 23000,
+              "per_annum": 276000,
+              "label": "R23,000/month · R276,000/year"
+            },
+            "senior": {
+              "per_month": 38000,
+              "per_annum": 456000,
+              "label": "R38,000/month · R456,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Laws (LLB)",
+          "years": 4,
+          "aps": "30",
+          "subs_en": "English L4, Mathematics L3 or Maths Literacy L4",
+          "subs_zu": "ISingisi L4, IMathematics L3 noma Maths Literacy L4",
+          "tags": [
+            "english",
+            "history",
+            "business studies",
+            "economics"
+          ],
+          "why_en": "Strong English and analytical/argument subjects",
+          "why_zu": "ISingisi esiqinile nezifundo zokuhlaziya",
+          "salary": {
+            "category": "law",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 30000,
+              "per_annum": 360000,
+              "label": "R30,000/month · R360,000/year"
+            },
+            "senior": {
+              "per_month": 65000,
+              "per_annum": 780000,
+              "label": "R65,000/month · R780,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Higher Certificate (Accountancy)",
+          "years": 1,
+          "aps": "22",
+          "subs_en": "English L3, Mathematics L3 or Maths Literacy L4",
+          "subs_zu": "ISingisi L3, IMathematics L3 noma Maths Literacy L4",
+          "tags": [
+            "mathematics",
+            "accounting",
+            "english"
+          ],
+          "why_en": "A 1-year entry route into accounting-related study",
+          "why_zu": "Indlela yonyaka owodwa yokungena kwezimali",
+          "salary": {
+            "category": "accounting_finance",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "senior": {
+              "per_month": 58000,
+              "per_annum": 696000,
+              "label": "R58,000/month · R696,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma (Logistics Management)",
+          "years": 3,
+          "aps": "24",
+          "subs_en": "English HL L3, Mathematics/Maths Literacy L3–4",
+          "subs_zu": "ISingisi L3, IMathematics/Maths Literacy L3-4",
+          "tags": [
+            "mathematics",
+            "business studies"
+          ],
+          "why_en": "Practical, supply-chain and operations interest",
+          "why_zu": "Ushukela ekuthuthukisweni kwempahla nokusebenza",
+          "salary": {
+            "category": "logistics",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 20000,
+              "per_annum": 240000,
+              "label": "R20,000/month · R240,000/year"
+            },
+            "senior": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        }
+      ]
+    },
+    {
+      "code": "FE",
+      "color": "#F0B92C",
+      "contact": "035 902 6348/6333",
+      "name_en": "Education",
+      "name_zu": "Imfundo",
+      "blurb_en": "Bachelor of Education degrees for Foundation, Intermediate, Senior and FET Phase teaching, matched to your strongest teaching subjects.",
+      "blurb_zu": "Iziqu ze-Bachelor of Education ze-Foundation, Intermediate, Senior ne-FET Phase, kuqondaniswa nezifundo zakho eziqinile zokufundisa.",
+      "programmes": [
+        {
+          "name": "BEd Foundation Phase Teaching",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "isiZulu Home Language L4, English FAL L4, Mathematics L3 or Maths Literacy L4",
+          "subs_zu": "isiZulu Ulimi Lwasekhaya L4, ISingisi L4, IMathematics L3 noma Maths Literacy L4",
+          "tags": [
+            "isizulu",
+            "english",
+            "mathematics"
+          ],
+          "why_en": "isiZulu Home Language strength with a nurturing, early-years focus",
+          "why_zu": "Amandla esiZulu Ulimi Lwasekhaya nokunakekela izingane",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BEd Intermediate Phase Teaching: Languages & Humanities",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "isiZulu L4, English L4, Geography and History L4",
+          "subs_zu": "isiZulu L4, ISingisi L4, IGeography noHistory L4",
+          "tags": [
+            "isizulu",
+            "english",
+            "geography",
+            "history"
+          ],
+          "why_en": "Language and humanities subjects together",
+          "why_zu": "Izifundo zolimi nezobuntu ndawonye",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BEd Intermediate Phase Teaching: Languages, Maths, Science & Technology",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "isiZulu L4, English L4, Mathematics L4 and Physical Sciences L3 (or Mathematics L3 and Physical Sciences L4)",
+          "subs_zu": "isiZulu L4, ISingisi L4, IMathematics L4 nesayensi yefiziki L3",
+          "tags": [
+            "isizulu",
+            "english",
+            "mathematics",
+            "physical sciences"
+          ],
+          "why_en": "A broad, science-and-language teaching profile",
+          "why_zu": "Isifundo esibanzi sesayensi nolimi",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BEd Senior & FET Phase Teaching: Social Science Education",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "English, Geography and History all at L4",
+          "subs_zu": "ISingisi, IGeography noHistory kuzo zontathu ku-L4",
+          "tags": [
+            "english",
+            "geography",
+            "history"
+          ],
+          "why_en": "Strong humanities subjects you'd enjoy teaching",
+          "why_zu": "Izifundo zobuntu oqinile ongathanda ukuzifundisa",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BEd Senior & FET Phase Teaching: Maths, Science & Technology Education",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "English L4, Mathematics L5 and Physical Sciences L4 (or Mathematics L4 and Physical Sciences L5)",
+          "subs_zu": "ISingisi L4, IMathematics L5 nesayensi yefiziki L4",
+          "tags": [
+            "english",
+            "mathematics",
+            "physical sciences"
+          ],
+          "why_en": "High Maths and Physical Sciences you'd enjoy teaching onward",
+          "why_zu": "IMathematics nesayensi yefiziki ephezulu",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BEd Senior Phase & FET Teaching: Economics & Management Sciences",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "English L4, Accounting, Business Studies and Economics all at L4",
+          "subs_zu": "ISingisi L4, i-Accounting, iBusiness Studies ne-Economics ku-L4",
+          "tags": [
+            "english",
+            "accounting",
+            "business studies",
+            "economics"
+          ],
+          "why_en": "Commerce subjects you'd enjoy teaching to future learners",
+          "why_zu": "Izifundo zezohwebo ongathanda ukuzifundisa",
+          "salary": {
+            "category": "education",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 16000,
+              "per_annum": 192000,
+              "label": "R16,000/month · R192,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 35000,
+              "per_annum": 420000,
+              "label": "R35,000/month · R420,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        }
+      ]
+    },
+    {
+      "code": "FHSS",
+      "color": "#3E6BC2",
+      "contact": "035 902 6572/6087",
+      "name_en": "Humanities & Social Sciences",
+      "name_zu": "Ezobuntu Nezesayensi Yomphakathi",
+      "blurb_en": "For learners drawn to languages, society, culture, communication, psychology or people-focused careers.",
+      "blurb_zu": "Kwabathanda izilimi, umphakathi, isiko, ukuxhumana, i-psychology noma imisebenzi egxile ebantwini.",
+      "programmes": [
+        {
+          "name": "BA (general — Social Sciences)",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3, Life Orientation L4, English Home Language L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ILife Orientation L4, ISingisi (Ulimi Lwasekhaya) L4",
+          "tags": [
+            "history",
+            "geography",
+            "life orientation",
+            "isizulu",
+            "english"
+          ],
+          "why_en": "A broad social-sciences foundation across languages, history and society",
+          "why_zu": "Isisekelo esibanzi sesayensi yomphakathi",
+          "salary": {
+            "category": "humanities_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Industrial Sociology",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "Same as BA general — 4 NSC subjects L3, English HL L4",
+          "subs_zu": "Njenge-BA ejwayelekile",
+          "tags": [
+            "history",
+            "geography",
+            "life orientation",
+            "english"
+          ],
+          "why_en": "Interest in workplaces, labour and society",
+          "why_zu": "Ushukela emsebenzini nasemphakathini",
+          "salary": {
+            "category": "humanities_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Development Studies",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3, English HL L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "history",
+            "geography",
+            "life orientation",
+            "english"
+          ],
+          "why_en": "Interest in community and development issues",
+          "why_zu": "Ushukela ezindabeni zomphakathi nentuthuko",
+          "salary": {
+            "category": "humanities_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Environmental Planning & Development",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "English L4, Geography L4",
+          "subs_zu": "ISingisi L4, IGeography L4",
+          "tags": [
+            "geography",
+            "english"
+          ],
+          "why_en": "Geography strength with a planning focus",
+          "why_zu": "Amandla eGeography agxile ekuhleleni",
+          "salary": {
+            "category": "environmental_planning",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 15000,
+              "per_annum": 180000,
+              "label": "R15,000/month · R180,000/year"
+            },
+            "mid": {
+              "per_month": 26000,
+              "per_annum": 312000,
+              "label": "R26,000/month · R312,000/year"
+            },
+            "senior": {
+              "per_month": 40000,
+              "per_annum": 480000,
+              "label": "R40,000/month · R480,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Intercultural Communication",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L4, English HL L4 or FAL L3",
+          "subs_zu": "Izifundo ezine ze-NSC L4, ISingisi L4/L3",
+          "tags": [
+            "english",
+            "isizulu",
+            "history"
+          ],
+          "why_en": "Strong language and communication marks",
+          "why_zu": "Amamaki aqinile olimi nokuxhumana",
+          "salary": {
+            "category": "humanities_general",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 18000,
+              "per_annum": 216000,
+              "label": "R18,000/month · R216,000/year"
+            },
+            "senior": {
+              "per_month": 28000,
+              "per_annum": 336000,
+              "label": "R28,000/month · R336,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Information Science",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3, English HL L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "information technology",
+            "english",
+            "history"
+          ],
+          "why_en": "Interest in information, records and research systems",
+          "why_zu": "Ushukela olwazini nasezinhlelweni zocwaningo",
+          "salary": {
+            "category": "info_library",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 20000,
+              "per_annum": 240000,
+              "label": "R20,000/month · R240,000/year"
+            },
+            "senior": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Library & Information Science",
+          "years": 4,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3, English HL L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "information technology",
+            "english"
+          ],
+          "why_en": "Interest in organising knowledge and information services",
+          "why_zu": "Ushukela ekuhleleni ulwazi nezinsizakalo",
+          "salary": {
+            "category": "info_library",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 20000,
+              "per_annum": 240000,
+              "label": "R20,000/month · R240,000/year"
+            },
+            "senior": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Psychology",
+          "years": 3,
+          "aps": "28",
+          "subs_en": "English, Social Science and Physics all at L4 (degree endorsement or Matric Exemption); selected candidates interviewed",
+          "subs_zu": "ISingisi, Social Science neFiziki ku-L4; ingxoxo iyenzeka",
+          "tags": [
+            "english",
+            "physical sciences",
+            "life orientation"
+          ],
+          "why_en": "A people-focused interest backed by science subjects",
+          "why_zu": "Ushukela ebantwini, kusekelwa yisayensi",
+          "salary": {
+            "category": "psychology",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 12000,
+              "per_annum": 144000,
+              "label": "R12,000/month · R144,000/year"
+            },
+            "mid": {
+              "per_month": 22000,
+              "per_annum": 264000,
+              "label": "R22,000/month · R264,000/year"
+            },
+            "senior": {
+              "per_month": 40000,
+              "per_annum": 480000,
+              "label": "R40,000/month · R480,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BSocSci Political & International Studies",
+          "years": 3,
+          "aps": "30",
+          "subs_en": "English and Geography L5; Mathematics L4 or Maths Literacy L5; History or Economics L5",
+          "subs_zu": "ISingisi neGeography L5; IMathematics L4; UHistory noma i-Economics L5",
+          "tags": [
+            "english",
+            "geography",
+            "history",
+            "economics",
+            "mathematics"
+          ],
+          "why_en": "Strong English, Geography and History/Economics for governance and global affairs",
+          "why_zu": "ISingisi, IGeography noHistory/Economics eqinile",
+          "salary": {
+            "category": "political_intl",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 13000,
+              "per_annum": 156000,
+              "label": "R13,000/month · R156,000/year"
+            },
+            "mid": {
+              "per_month": 24000,
+              "per_annum": 288000,
+              "label": "R24,000/month · R288,000/year"
+            },
+            "senior": {
+              "per_month": 40000,
+              "per_annum": 480000,
+              "label": "R40,000/month · R480,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "BA Drama, Theatre & Performance",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "4 recognised NSC subjects L3, English HL L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "english",
+            "history"
+          ],
+          "why_en": "Creative and performance interest with a language foundation",
+          "why_zu": "Ushukela kwezobuciko nokudlala",
+          "salary": {
+            "category": "drama_arts",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 8000,
+              "per_annum": 96000,
+              "label": "R8,000/month · R96,000/year"
+            },
+            "mid": {
+              "per_month": 15000,
+              "per_annum": 180000,
+              "label": "R15,000/month · R180,000/year"
+            },
+            "senior": {
+              "per_month": 25000,
+              "per_annum": 300000,
+              "label": "R25,000/month · R300,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Bachelor of Tourism Studies",
+          "years": 3,
+          "aps": "26",
+          "subs_en": "English and Geography or Tourism L4 (degree endorsement or Matric Exemption)",
+          "subs_zu": "ISingisi neGeography noma iTourism L4",
+          "tags": [
+            "tourism",
+            "geography",
+            "english"
+          ],
+          "why_en": "Geography/Tourism interest with strong English",
+          "why_zu": "Ushukela kwezokuvakasha, kusekelwa yiGeography",
+          "salary": {
+            "category": "tourism",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 10000,
+              "per_annum": 120000,
+              "label": "R10,000/month · R120,000/year"
+            },
+            "mid": {
+              "per_month": 17000,
+              "per_annum": 204000,
+              "label": "R17,000/month · R204,000/year"
+            },
+            "senior": {
+              "per_month": 26000,
+              "per_annum": 312000,
+              "label": "R26,000/month · R312,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma in Tourism Management",
+          "years": 3,
+          "aps": "24",
+          "subs_en": "English L4 and appropriate subject combination",
+          "subs_zu": "ISingisi L4 nezinye izifundo ezifanele",
+          "tags": [
+            "tourism",
+            "english"
+          ],
+          "why_en": "A practical route into the tourism industry",
+          "why_zu": "Indlela esebenzayo yokungena embonini yezokuvakasha",
+          "salary": {
+            "category": "tourism",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 10000,
+              "per_annum": 120000,
+              "label": "R10,000/month · R120,000/year"
+            },
+            "mid": {
+              "per_month": 17000,
+              "per_annum": 204000,
+              "label": "R17,000/month · R204,000/year"
+            },
+            "senior": {
+              "per_month": 26000,
+              "per_annum": 312000,
+              "label": "R26,000/month · R312,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma in Media Studies",
+          "years": 3,
+          "aps": "24",
+          "subs_en": "4 recognised NSC subjects L3, English L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "english",
+            "information technology"
+          ],
+          "why_en": "Interest in media, writing and communication",
+          "why_zu": "Ushukela kwezindaba nokuxhumana",
+          "salary": {
+            "category": "media_pr",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 19000,
+              "per_annum": 228000,
+              "label": "R19,000/month · R228,000/year"
+            },
+            "senior": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        },
+        {
+          "name": "Diploma in Public Relations Management",
+          "years": 3,
+          "aps": "24",
+          "subs_en": "4 recognised NSC subjects L3, English L4",
+          "subs_zu": "Izifundo ezine ze-NSC L3, ISingisi L4",
+          "tags": [
+            "english",
+            "business studies"
+          ],
+          "why_en": "Interest in communication and organisational image",
+          "why_zu": "Ushukela ekuxhumaneni nasebhizinisini",
+          "salary": {
+            "category": "media_pr",
+            "currency": "ZAR",
+            "junior": {
+              "per_month": 11000,
+              "per_annum": 132000,
+              "label": "R11,000/month · R132,000/year"
+            },
+            "mid": {
+              "per_month": 19000,
+              "per_annum": 228000,
+              "label": "R19,000/month · R228,000/year"
+            },
+            "senior": {
+              "per_month": 32000,
+              "per_annum": 384000,
+              "label": "R32,000/month · R384,000/year"
+            },
+            "note": "Indicative South African market estimate (2026), based on PayScale/industry salary survey data for comparable roles. Actual pay varies by employer, sector, region and professional registration (e.g. ECSA for engineers)."
+          }
+        }
+      ]
+    }
+  ]
+}
