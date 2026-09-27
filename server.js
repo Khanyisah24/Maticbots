@@ -4,7 +4,7 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 const { GoogleGenAI } = require("@google/genai");
-const qualificationsPath = path.join(__dirname,"..", "data" ,"qualifications.json");
+const qualificationsPath = path.join(__dirname, "data" ,"qualifications.json");
 
 const qualificationsData = JSON.parse(fs.readFileSync(qualificationsPath, "utf-8"));
 console.log("Qualifications loaded:", qualificationsData.faculties.length);
